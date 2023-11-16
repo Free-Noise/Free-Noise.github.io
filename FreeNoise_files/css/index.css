@@ -378,13 +378,13 @@ a:hover:after{
   justify-content: center;
   align-items: center;
   margin: auto;
-  width: 1072px;
+  width: 1032px;
   overflow: 2;
   flex-direction: column; 
   position: relative;
 }
 .vid-txt{
-  padding: 20px;
+  padding: 0px 40px 35px 40px;
   text-align: center;
   margin: auto;
   display: flex;
@@ -392,7 +392,7 @@ a:hover:after{
   align-items: center;
   flex-direction: column; 
   width: 1024px;
-  height: 624;
+  height: 584;
 }
 .vid-txt p {
   margin-top: 0px;
